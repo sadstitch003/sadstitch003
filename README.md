@@ -9,9 +9,3 @@ Fullstack dev who loves building, a curious generalist, and always excited to le
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.asterisk@gmail.com)
 
 </div>
-
-<div align="center">
-
-**Thanks for visiting! Let's connect and build something amazing together.**
-
-</div>
