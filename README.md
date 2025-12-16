@@ -12,8 +12,6 @@ Fullstack dev who loves building, a curious generalist, and always excited to le
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=sadstitch003&icon=0&color=6)
-
 **Thanks for visiting! Let's connect and build something amazing together.**
 
 </div>
